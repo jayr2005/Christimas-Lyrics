@@ -18,7 +18,9 @@ fn twelve_days_lyrics() {
             } else {
                 println!("{}", gifts[j]);
             }
+
         }
         println!();
+        println!("test");
     }
 }
